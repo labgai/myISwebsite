@@ -1,0 +1,64 @@
+/* these are the approved sytles for the sign */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #685050;
+    background-color: rgb(230, 230, 148);
+}
+
+li{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: normal;
+}
+
+a{
+    color: green;
+    text-decoration: none;
+
+}
+
+/*a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 32px;
+
+}*/
+
+
+h2,h4{color:darksalmon}
+
+.resumelistheading{
+    font-weight: bold;
+    font-size: normal;
+}
+
+/* these styles where created just for demo*/
+
+
+
+.homebg{
+    background-image:url(./images/background.jpg);
+    background-position: bottom right;
+    background-repeat: repeat;
+}
+
+.box1{
+    border: solid 1px pink;
+    border-bottom: coral dotted 2px;
+}
+
+.box2{
+    padding: 5px;
+}
+
+.box3{
+    margin: 50px;
+}
+
+.image{
+    margin: auto
+}
+
+  /*what is this werid moving thing that is going on and how do I get rid of it*/
